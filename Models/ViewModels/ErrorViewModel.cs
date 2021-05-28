@@ -1,6 +1,6 @@
 using System;
 
-namespace BookWorm.Models
+namespace BookWorm.Models.ViewModels
 {
     public class ErrorViewModel
     {
