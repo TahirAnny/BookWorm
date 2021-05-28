@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace BookWorm.Data
+namespace BookWorm.DataAccess.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {
